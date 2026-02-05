@@ -1,0 +1,19 @@
+# Node modules
+Frontend/node_modules/
+Backend/node_modules/
+
+# Environment files (keep separate .env in each folder, but ignore both)
+Frontend/.env
+Backend/.env
+.env
+
+# Build outputs
+Frontend/build/
+Backend/dist/
+
+# Logs
+*.log
+
+# OS/system files
+.DS_Store
+Thumbs.db
